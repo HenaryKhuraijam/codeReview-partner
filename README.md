@@ -70,12 +70,6 @@ Go to the Folder where want to copy this repo and type the following cmds in you
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
 - LinkedIn: [@Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam-50487317a/)
 
-👤 **Mohammad Yaser**
-
-- GitHub: [@githubhandle](https://github.com/MohammadYaser)
-- Twitter: [@twitterhandle](https://twitter.com/Yaser_Safi19)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-yaser-safi-a12083270)
-
 ## 🔭 Future Features <a name="future-features"></a>
    -Making responsive website
    -Making desktop version website
